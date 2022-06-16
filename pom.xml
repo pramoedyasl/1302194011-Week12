@@ -3,6 +3,7 @@
   <groupId>contohprojectmaven</groupId>
   <artifactId>contohproject</artifactId>
   <version>0.3.4</version>
+  <packaging>jar</packaging>
 
 <dependencies>
   <dependency>
